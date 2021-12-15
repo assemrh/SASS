@@ -1,0 +1,890 @@
+/*
+AliceBlue
+#F0F8FF
+AntiqueWhite
+#FAEBD7
+Aqua
+#00FFFF
+Aquamarine
+#7FFFD4
+Azure
+#F0FFFF
+Beige
+#F5F5DC
+Bisque
+#FFE4C4
+Black
+#000000
+BlanchedAlmond
+#FFEBCD
+Blue
+#0000FF
+BlueViolet
+#8A2BE2
+Brown
+#A52A2A
+BurlyWood
+#DEB887
+CadetBlue
+#5F9EA0
+Chartreuse
+#7FFF00
+Chocolate
+#D2691E
+Coral
+#FF7F50
+CornflowerBlue
+#6495ED
+Cornsilk
+#FFF8DC
+Crimson
+#DC143C
+Cyan
+#00FFFF
+DarkBlue
+#00008B
+DarkCyan
+#008B8B
+DarkGoldenRod
+#B8860B
+DarkGray
+#A9A9A9
+DarkGrey
+#A9A9A9
+DarkGreen
+#006400
+DarkKhaki
+#BDB76B
+DarkMagenta
+#8B008B
+DarkOliveGreen
+#556B2F
+DarkOrange
+#FF8C00
+DarkOrchid
+#9932CC
+DarkRed
+#8B0000
+DarkSalmon
+#E9967A
+DarkSeaGreen
+#8FBC8F
+DarkSlateBlue
+#483D8B
+DarkSlateGray
+#2F4F4F
+DarkSlateGrey
+#2F4F4F
+DarkTurquoise
+#00CED1
+DarkViolet
+#9400D3
+DeepPink
+#FF1493
+DeepSkyBlue
+#00BFFF
+DimGray
+#696969
+DimGrey
+#696969
+DodgerBlue
+#1E90FF
+FireBrick
+#B22222
+FloralWhite
+#FFFAF0
+ForestGreen
+#228B22
+Fuchsia
+#FF00FF
+Gainsboro
+#DCDCDC
+GhostWhite
+#F8F8FF
+Gold
+#FFD700
+GoldenRod
+#DAA520
+Gray
+#808080
+Grey
+#808080
+Green
+#008000
+GreenYellow
+#ADFF2F
+HoneyDew
+#F0FFF0
+HotPink
+#FF69B4
+IndianRed
+#CD5C5C
+Indigo
+#4B0082
+Ivory
+#FFFFF0
+Khaki
+#F0E68C
+Lavender
+#E6E6FA
+LavenderBlush
+#FFF0F5
+LawnGreen
+#7CFC00
+LemonChiffon
+#FFFACD
+LightBlue
+#ADD8E6
+LightCoral
+#F08080
+LightCyan
+#E0FFFF
+LightGoldenRodYellow
+#FAFAD2
+LightGray
+#D3D3D3
+LightGrey
+#D3D3D3
+LightGreen
+#90EE90
+LightPink
+#FFB6C1
+LightSalmon
+#FFA07A
+LightSeaGreen
+#20B2AA
+LightSkyBlue
+#87CEFA
+LightSlateGray
+#778899
+LightSlateGrey
+#778899
+LightSteelBlue
+#B0C4DE
+LightYellow
+#FFFFE0
+Lime
+#00FF00
+LimeGreen
+#32CD32
+Linen
+#FAF0E6
+Magenta
+#FF00FF
+Maroon
+#800000
+MediumAquaMarine
+#66CDAA
+MediumBlue
+#0000CD
+MediumOrchid
+#BA55D3
+MediumPurple
+#9370DB
+MediumSeaGreen
+#3CB371
+MediumSlateBlue
+#7B68EE
+MediumSpringGreen
+#00FA9A
+MediumTurquoise
+#48D1CC
+MediumVioletRed
+#C71585
+MidnightBlue
+#191970
+MintCream
+#F5FFFA
+MistyRose
+#FFE4E1
+Moccasin
+#FFE4B5
+NavajoWhite
+#FFDEAD
+Navy
+#000080
+OldLace
+#FDF5E6
+Olive
+#808000
+OliveDrab
+#6B8E23
+Orange
+#FFA500
+OrangeRed
+#FF4500
+Orchid
+#DA70D6
+PaleGoldenRod
+#EEE8AA
+PaleGreen
+#98FB98
+PaleTurquoise
+#AFEEEE
+PaleVioletRed
+#DB7093
+PapayaWhip
+#FFEFD5
+PeachPuff
+#FFDAB9
+Peru
+#CD853F
+Pink
+#FFC0CB
+Plum
+#DDA0DD
+PowderBlue
+#B0E0E6
+Purple
+#800080
+RebeccaPurple
+#663399
+Red
+#FF0000
+RosyBrown
+#BC8F8F
+RoyalBlue
+#4169E1
+SaddleBrown
+#8B4513
+Salmon
+#FA8072
+SandyBrown
+#F4A460
+SeaGreen
+#2E8B57
+SeaShell
+#FFF5EE
+Sienna
+#A0522D
+Silver
+#C0C0C0
+SkyBlue
+#87CEEB
+SlateBlue
+#6A5ACD
+SlateGray
+#708090
+SlateGrey
+#708090
+Snow
+#FFFAFA
+SpringGreen
+#00FF7F
+SteelBlue
+#4682B4
+Tan
+#D2B48C
+Teal
+#008080
+Thistle
+#D8BFD8
+Tomato
+#FF6347
+Turquoise
+#40E0D0
+Violet
+#EE82EE
+Wheat
+#F5DEB3
+White
+#FFFFFF
+WhiteSmoke
+#F5F5F5
+Yellow
+#FFFF00
+YellowGreen
+#9ACD32
+*/
+.bg-aliceBlue {
+  background-color: #F0F8FF;
+}
+
+.bg-AntiqueWhite {
+  background-color: #FAEBD7;
+}
+
+.bg-Aqua {
+  background-color: #00FFFF;
+}
+
+.bg-Aquamarine {
+  background-color: #7FFFD4;
+}
+
+.bg-Azure {
+  background-color: #F0FFFF;
+}
+
+.bg-Beige {
+  background-color: #F5F5DC;
+}
+
+.bg-Bisque {
+  background-color: #FFE4C4;
+}
+
+.bg-Black {
+  background-color: #000000;
+}
+
+.bg-BlanchedAlmond {
+  background-color: #FFEBCD;
+}
+
+.bg-Blue {
+  background-color: #0000FF;
+}
+
+.bg-BlueViolet {
+  background-color: #8A2BE2;
+}
+
+.bg-Brown {
+  background-color: #A52A2A;
+}
+
+.bg-BurlyWood {
+  background-color: #DEB887;
+}
+
+.bg-CadetBlue {
+  background-color: #5F9EA0;
+}
+
+.bg-Chartreuse {
+  background-color: #7FFF00;
+}
+
+.bg-Chocolate {
+  background-color: #D2691E;
+}
+
+.bg-Coral {
+  background-color: #FF7F50;
+}
+
+.bg-CornflowerBlue {
+  background-color: #6495ED;
+}
+
+.bg-Cornsilk {
+  background-color: #FFF8DC;
+}
+
+.bg-Crimson {
+  background-color: #DC143C;
+}
+
+.bg-Cyan {
+  background-color: #00FFFF;
+}
+
+.bg-DarkBlue {
+  background-color: #00008B;
+}
+
+.bg-DarkCyan {
+  background-color: #008B8B;
+}
+
+.bg-DarkGoldenRod {
+  background-color: #B8860B;
+}
+
+.bg-DarkGray {
+  background-color: #A9A9A9;
+}
+
+.bg-DarkGrey {
+  background-color: #A9A9A9;
+}
+
+.bg-DarkGreen {
+  background-color: #006400;
+}
+
+.bg-DarkKhaki {
+  background-color: #BDB76B;
+}
+
+.bg-DarkMagenta {
+  background-color: #8B008B;
+}
+
+.bg-DarkOliveGreen {
+  background-color: #556B2F;
+}
+
+.bg-DarkOrange {
+  background-color: #FF8C00;
+}
+
+.bg-DarkOrchid {
+  background-color: #9932CC;
+}
+
+.bg-DarkRed {
+  background-color: #8B0000;
+}
+
+.bg-DarkSalmon {
+  background-color: #E9967A;
+}
+
+.bg-DarkSeaGreen {
+  background-color: #8FBC8F;
+}
+
+.bg-DarkSlateBlue {
+  background-color: #483D8B;
+}
+
+.bg-DarkSlateGray {
+  background-color: #2F4F4F;
+}
+
+.bg-DarkSlateGrey {
+  background-color: #2F4F4F;
+}
+
+.bg-DarkTurquoise {
+  background-color: #00CED1;
+}
+
+.bg-DarkViolet {
+  background-color: #9400D3;
+}
+
+.bg-DeepPink {
+  background-color: #FF1493;
+}
+
+.bg-DeepSkyBlue {
+  background-color: #00BFFF;
+}
+
+.bg-DimGray {
+  background-color: #696969;
+}
+
+.bg-DimGrey {
+  background-color: #696969;
+}
+
+.bg-DodgerBlue {
+  background-color: #1E90FF;
+}
+
+.bg-FireBrick {
+  background-color: #B22222;
+}
+
+.bg-FloralWhite {
+  background-color: #FFFAF0;
+}
+
+.bg-ForestGreen {
+  background-color: #228B22;
+}
+
+.bg-Fuchsia {
+  background-color: #FF00FF;
+}
+
+.bg-Gainsboro {
+  background-color: #DCDCDC;
+}
+
+.bg-GhostWhite {
+  background-color: #F8F8FF;
+}
+
+.bg-Gold {
+  background-color: #FFD700;
+}
+
+.bg-GoldenRod {
+  background-color: #DAA520;
+}
+
+.bg-Gray {
+  background-color: #808080;
+}
+
+.bg-Grey {
+  background-color: #808080;
+}
+
+.bg-Green {
+  background-color: #008000;
+}
+
+.bg-GreenYellow {
+  background-color: #ADFF2F;
+}
+
+.bg-HoneyDew {
+  background-color: #F0FFF0;
+}
+
+.bg-HotPink {
+  background-color: #FF69B4;
+}
+
+.bg-IndianRed {
+  background-color: #CD5C5C;
+}
+
+.bg-Indigo {
+  background-color: #4B0082;
+}
+
+.bg-Ivory {
+  background-color: #FFFFF0;
+}
+
+.bg-Khaki {
+  background-color: #F0E68C;
+}
+
+.bg-Lavender {
+  background-color: #E6E6FA;
+}
+
+.bg-LavenderBlush {
+  background-color: #FFF0F5;
+}
+
+.bg-LawnGreen {
+  background-color: #7CFC00;
+}
+
+.bg-LemonChiffon {
+  background-color: #FFFACD;
+}
+
+.bg-LightBlue {
+  background-color: #ADD8E6;
+}
+
+.bg-LightCoral {
+  background-color: #F08080;
+}
+
+.bg-LightCyan {
+  background-color: #E0FFFF;
+}
+
+.bg-LightGoldenRodYellow {
+  background-color: #FAFAD2;
+}
+
+.bg-LightGray {
+  background-color: #D3D3D3;
+}
+
+.bg-LightGrey {
+  background-color: #D3D3D3;
+}
+
+.bg-LightGreen {
+  background-color: #90EE90;
+}
+
+.bg-LightPink {
+  background-color: #FFB6C1;
+}
+
+.bg-LightSalmon {
+  background-color: #FFA07A;
+}
+
+.bg-LightSeaGreen {
+  background-color: #20B2AA;
+}
+
+.bg-LightSkyBlue {
+  background-color: #87CEFA;
+}
+
+.bg-LightSlateGray {
+  background-color: #778899;
+}
+
+.bg-LightSlateGrey {
+  background-color: #778899;
+}
+
+.bg-LightSteelBlue {
+  background-color: #B0C4DE;
+}
+
+.bg-LightYellow {
+  background-color: #FFFFE0;
+}
+
+.bg-Lime {
+  background-color: #00FF00;
+}
+
+.bg-LimeGreen {
+  background-color: #32CD32;
+}
+
+.bg-Linen {
+  background-color: #FAF0E6;
+}
+
+.bg-Magenta {
+  background-color: #FF00FF;
+}
+
+.bg-Maroon {
+  background-color: #800000;
+}
+
+.bg-MediumAquaMarine {
+  background-color: #66CDAA;
+}
+
+.bg-MediumBlue {
+  background-color: #0000CD;
+}
+
+.bg-MediumOrchid {
+  background-color: #BA55D3;
+}
+
+.bg-MediumPurple {
+  background-color: #9370DB;
+}
+
+.bg-MediumSeaGreen {
+  background-color: #3CB371;
+}
+
+.bg-MediumSlateBlue {
+  background-color: #7B68EE;
+}
+
+.bg-MediumSpringGreen {
+  background-color: #00FA9A;
+}
+
+.bg-MediumTurquoise {
+  background-color: #48D1CC;
+}
+
+.bg-MediumVioletRed {
+  background-color: #C71585;
+}
+
+.bg-MidnightBlue {
+  background-color: #191970;
+}
+
+.bg-MintCream {
+  background-color: #F5FFFA;
+}
+
+.bg-MistyRose {
+  background-color: #FFE4E1;
+}
+
+.bg-Moccasin {
+  background-color: #FFE4B5;
+}
+
+.bg-NavajoWhite {
+  background-color: #FFDEAD;
+}
+
+.bg-Navy {
+  background-color: #000080;
+}
+
+.bg-OldLace {
+  background-color: #FDF5E6;
+}
+
+.bg-Olive {
+  background-color: #808000;
+}
+
+.bg-OliveDrab {
+  background-color: #6B8E23;
+}
+
+.bg-Orange {
+  background-color: #FFA500;
+}
+
+.bg-OrangeRed {
+  background-color: #FF4500;
+}
+
+.bg-Orchid {
+  background-color: #DA70D6;
+}
+
+.bg-PaleGoldenRod {
+  background-color: #EEE8AA;
+}
+
+.bg-PaleGreen {
+  background-color: #98FB98;
+}
+
+.bg-PaleTurquoise {
+  background-color: #AFEEEE;
+}
+
+.bg-PaleVioletRed {
+  background-color: #DB7093;
+}
+
+.bg-PapayaWhip {
+  background-color: #FFEFD5;
+}
+
+.bg-PeachPuff {
+  background-color: #FFDAB9;
+}
+
+.bg-Peru {
+  background-color: #CD853F;
+}
+
+.bg-Pink {
+  background-color: #FFC0CB;
+}
+
+.bg-Plum {
+  background-color: #DDA0DD;
+}
+
+.bg-PowderBlue {
+  background-color: #B0E0E6;
+}
+
+.bg-Purple {
+  background-color: #800080;
+}
+
+.bg-RebeccaPurple {
+  background-color: #663399;
+}
+
+.bg-Red {
+  background-color: #FF0000;
+}
+
+.bg-RosyBrown {
+  background-color: #BC8F8F;
+}
+
+.bg-RoyalBlue {
+  background-color: #4169E1;
+}
+
+.bg-SaddleBrown {
+  background-color: #8B4513;
+}
+
+.bg-Salmon {
+  background-color: #FA8072;
+}
+
+.bg-SandyBrown {
+  background-color: #F4A460;
+}
+
+.bg-SeaGreen {
+  background-color: #2E8B57;
+}
+
+.bg-SeaShell {
+  background-color: #FFF5EE;
+}
+
+.bg-Sienna {
+  background-color: #A0522D;
+}
+
+.bg-Silver {
+  background-color: #C0C0C0;
+}
+
+.bg-SkyBlue {
+  background-color: #87CEEB;
+}
+
+.bg-SlateBlue {
+  background-color: #6A5ACD;
+}
+
+.bg-SlateGray {
+  background-color: #708090;
+}
+
+.bg-SlateGrey {
+  background-color: #708090;
+}
+
+.bg-Snow {
+  background-color: #FFFAFA;
+}
+
+.bg-SpringGreen {
+  background-color: #00FF7F;
+}
+
+.bg-SteelBlue {
+  background-color: #4682B4;
+}
+
+.bg-Tan {
+  background-color: #D2B48C;
+}
+
+.bg-Teal {
+  background-color: #008080;
+}
+
+.bg-Thistle {
+  background-color: #D8BFD8;
+}
+
+.bg-Tomato {
+  background-color: #FF6347;
+}
+
+.bg-Turquoise {
+  background-color: #40E0D0;
+}
+
+.bg-Violet {
+  background-color: #EE82EE;
+}
+
+.bg-Wheat {
+  background-color: #F5DEB3;
+}
+
+.bg-White {
+  background-color: #FFFFFF;
+}
+
+.bg-WhiteSmoke {
+  background-color: #F5F5F5;
+}
+
+.bg-Yellow {
+  background-color: #FFFF00;
+}
+
+.bg-YellowGreen {
+  background-color: #9ACD32;
+}
+/*# sourceMappingURL=background-color.css.map */
